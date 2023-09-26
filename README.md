@@ -1,4 +1,4 @@
-![Sujan Masterhead](https://img.freepik.com/free-vector/data-extraction-concept-illustration_114360-4766.jpg?w=996&t=st=1695740305~exp=1695740905~hmac=fb2e22e7e65c247617298d4dc1d65a6a972e37ddd5c8ac83e49b8ad6e57503a2)
+![Sujan Masterhead](https://img.freepik.com/free-vector/illustration-social-media-concept_53876-18140.jpg?w=1060&t=st=1695740599~exp=1695741199~hmac=e5b99d5ee7a8c77970f3308d676248a3d15745e35cef50bc351dabd0add2a539)
 <h1 align="center">Hi 👋, I'm Sujan Karna</h1>
 <h3 align="center">A passionate Data Science enthusiast and .NET developer from Nepal</h3>
 <img align="right" width="400" src="https://media1.giphy.com/media/3oKIPEqDGUULpEU0aQ/giphy.gif?cid=ecf05e47ke78k52eozvi1ejowgfb5mvekmveaah3x724cgjs&ep=v1_gifs_search&rid=giphy.gif&ct=g" alt=""/>
@@ -16,7 +16,6 @@
 <p align="left">
 <a href="https://linkedin.com/in/sujan-karna-054a5225a" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="sujan-karna-054a5225a" height="30" width="40" /></a>
 <a href="https://kaggle.com/sujankarna" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="sujankarna" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/alxicoders" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="alxicoders" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/user0706d" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="user0706d" height="30" width="40" /></a>
 </p>
 
@@ -26,5 +25,4 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=trickster-2020&show_icons=true&locale=en&layout=compact" alt="trickster-2020" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=trickster-2020&show_icons=true&locale=en" alt="trickster-2020" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=trickster-2020&" alt="trickster-2020" /></p>
+<!-- <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=trickster-2020&" alt="trickster-2020" /></p> -->
