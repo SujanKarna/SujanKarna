@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Sujan Karna</h1>
 <h3 align="center">A passionate Data Science enthusiast and .NET developer from Nepal</h3>
-
-<p align="left"> <img src="[https://komarev.com/ghpvc/?username=trickster-2020&label=Profile%20views&color=0e75b6&style=flat](https://github.com/Trickster-2020/Trickster-2020/blob/master/Timeline%201.mov)" alt="trickster-2020" /> </p>
+<img src="https://media1.giphy.com/media/3oKIPEqDGUULpEU0aQ/giphy.gif?cid=ecf05e47ke78k52eozvi1ejowgfb5mvekmveaah3x724cgjs&ep=v1_gifs_search&rid=giphy.gif&ct=g" alt="Data Science"/>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=trickster-2020&label=Profile%20views&color=0e75b6&style=flat" alt="trickster-2020" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=trickster-2020" alt="trickster-2020" /></a> </p>
 
