@@ -25,4 +25,4 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=trickster-2020&show_icons=true&locale=en&layout=compact" alt="trickster-2020" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=trickster-2020&show_icons=true&locale=en" alt="trickster-2020" /></p>
-<!-- <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=trickster-2020&" alt="trickster-2020" /></p> -->
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=trickster-2020&" alt="trickster-2020" /></p>
