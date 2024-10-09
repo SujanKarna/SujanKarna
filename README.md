@@ -1,14 +1,14 @@
 ![Sujan Masterhead](https://img.freepik.com/free-vector/illustration-social-media-concept_53876-18140.jpg?w=1060&t=st=1695740599~exp=1695741199~hmac=e5b99d5ee7a8c77970f3308d676248a3d15745e35cef50bc351dabd0add2a539)
 <h1 align="center">Hi 👋, I'm Sujan Karna</h1>
-<h3 align="center">A passionate Data Science enthusiast and .NET developer from Nepal</h3>
+<h3 align="center">A passionate Data Science enthusiast</h3>
 <img align="right" width="400" src="https://media1.giphy.com/media/3oKIPEqDGUULpEU0aQ/giphy.gif?cid=ecf05e47ke78k52eozvi1ejowgfb5mvekmveaah3x724cgjs&ep=v1_gifs_search&rid=giphy.gif&ct=g" alt=""/>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=trickster-2020&label=Profile%20views&color=0e75b6&style=flat" alt="trickster-2020" /> </p>
 
 - 🔭 I’m currently working on [Decision Tree](https://github.com/Trickster-2020/DecisionTree)
 
-- 🌱 I’m currently learning **Data Science, .NET Framework, Machine Learning and Java**
+- 🌱 I’m currently learning **Data Science**
 
-- 💬 Ask me about **Data Science, .NET, Java and Machine Learning**
+- 💬 Ask me about **Data Science and Machine Learning**
 
 - 📫 How to reach me **karna.sujan52@gmail.com**
 
