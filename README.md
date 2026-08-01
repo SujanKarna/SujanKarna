@@ -3,7 +3,7 @@
 ### Data Science & Web Engineering Student · TU Chemnitz  
 ### Interested in NLP, RAG Systems, Provenance, and Knowledge Graphs
 
-I’m currently exploring practical applications of provenance, ontology design, and context‑aware information extraction — topics I learned in the *Current Trends in Web Engineering* module under **Sheeba Samuel** and **Mahesika**. My goal is to apply these concepts to real systems that work locally without paid APIs or heavy compute.
+I’m currently exploring practical applications of provenance, ontology design, and context‑aware information extraction. My goal is to apply these concepts to real systems that work locally without paid APIs or heavy compute.
 
 ### 🔭 Current Work
 - Building a **PDF Section Extractor** for scientific papers  
