@@ -13,7 +13,7 @@ I’m currently exploring practical applications of provenance, ontology design,
   → Repo: https://github.com/SujanKarna/scientific-paper-section-extractor
 
 - Working on **AI-Assisted Knowledge Graph Construction for Deep Learning Models**  
-  → Part of my master’s research direction  
+  → Part of my research direction  
   → Extracting model metadata, datasets, hyperparameters, and evaluation details  
   → Everything runs locally on limited compute
 
