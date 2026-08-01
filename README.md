@@ -4,9 +4,9 @@
 <img align="right" width="400" src="https://media1.giphy.com/media/3oKIPEqDGUULpEU0aQ/giphy.gif?cid=ecf05e47ke78k52eozvi1ejowgfb5mvekmveaah3x724cgjs&ep=v1_gifs_search&rid=giphy.gif&ct=g" alt=""/>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=trickster-2020&label=Profile%20views&color=0e75b6&style=flat" alt="trickster-2020" /> </p>
 
-- 🔭 I’m currently working on [Decision Tree](https://github.com/Trickster-2020/DecisionTree)
+- 🔭 I’m currently working on [RAG System](https://github.com/SujanKarna/DL-KG_Builder)
 
-- 🌱 I’m currently learning **Data Science**
+- 🌱 I’m currently learning **NLP**
 
 - 💬 Ask me about **Data Science and Machine Learning**
 
